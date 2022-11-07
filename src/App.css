@@ -1,0 +1,15 @@
+#App-title {
+  text-align: center;
+}
+.App {
+  margin-left: 5%;
+}
+button{
+  margin-right:3%;
+  border-radius: 15%;
+  border:black,1px ;
+}
+textarea{
+  height: 100px;
+  width: 300px;
+}
